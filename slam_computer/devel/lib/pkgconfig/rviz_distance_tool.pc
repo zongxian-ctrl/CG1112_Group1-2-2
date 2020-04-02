@@ -1,0 +1,8 @@
+prefix=/home/cj/Desktop/slam/devel
+
+Name: rviz_distance_tool
+Description: Description of rviz_distance_tool
+Version: 0.1.0
+Cflags: -I/home/cj/Desktop/slam/src/rviz_distance_tool/include
+Libs: -L${prefix}/lib -lrviz_distance_tool
+Requires: rviz
